@@ -1,4 +1,4 @@
-//Accept total amrks and obtained marks from user and calculate percentage
+//Accept total marks and obtained marks from user and calculate percentage
 
 #include<stdio.h>
 
